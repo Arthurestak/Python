@@ -21,7 +21,7 @@ while i < len(frase):
         letra_maior_frequencia = letra_atual
 
     i += 1
-l
+
 if letra_maior_frequencia in letras:
     print(f'A letra que apareceu mais vezes foi "{letra_maior_frequencia}", e apareceu {numero_aparicoes} vezes!')
 else:
