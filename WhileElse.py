@@ -1,4 +1,4 @@
-string = 'Thalia, amor da minha vida'.lower()
+string = 'Eu jogo futebol'.lower()
 vogais = 'aeiou'
 consoantes = 'bcdfghjklmnpqrstvwxyz'
 
@@ -14,4 +14,4 @@ while i < len(string):
     i += 1
 else:
     print('O else foi executado.')
-print('fora do while')
+print('Fora do while.')
